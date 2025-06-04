@@ -8,35 +8,35 @@ export interface Project {
 
 export const projects: Project[] = [
   {
-    title: 'Driwwwle',
+    title: 'CTF Toolkit',
     description:
-      'Discover creative websites and developers. A portal for you to share your projects.',
-    logo: '/logos/driwwwle.svg',
-    link: 'https://github.com/itsnitinr/driwwwle',
-    slug: 'driwwwle',
-  },
-  {
-    title: 'VSCode Portfolio',
-    description:
-      'A Visual Studio Code themed developer portfolio built with Next.js and CSS Modules.',
+      'Collection of utilities and scripts to speed up Capture The Flag challenges.',
     logo: '/logos/vsc.svg',
-    link: 'https://github.com/itsnitinr/vscode-portfolio',
-    slug: 'vscode-portfolio',
+    link: 'https://github.com/alexcyber/ctf-toolkit',
+    slug: 'ctf-toolkit',
   },
   {
-    title: 'Subtrackt',
+    title: 'Secure Chat',
     description:
-      'A simple and elegant way to track your subscriptions and save money.',
-    logo: '/logos/subtrackt.svg',
-    link: 'https://github.com/itsnitinr/subtrackt',
-    slug: 'subtrackt',
+      'End-to-end encrypted chat application built with Node.js and React.',
+    logo: '/logos/react_icon.svg',
+    link: 'https://github.com/alexcyber/secure-chat',
+    slug: 'secure-chat',
   },
   {
-    title: 'Coolify Deployments',
+    title: 'Vuln Notes',
     description:
-      'VSCode extension to track and deploy your Coolify applications.',
-    logo: '/logos/coolify.svg',
-    link: 'https://github.com/itsnitinr/coolify-vscode-extension',
-    slug: 'coolify-vscode-extension',
+      'A collection of write-ups documenting vulnerability research and CTF solutions.',
+    logo: '/logos/markdown_icon.svg',
+    link: 'https://github.com/alexcyber/vuln-notes',
+    slug: 'vuln-notes',
+  },
+  {
+    title: 'Recon Scanner',
+    description:
+      'Automated reconnaissance tool for discovering subdomains and open ports.',
+    logo: '/logos/json_icon.svg',
+    link: 'https://github.com/alexcyber/recon-scanner',
+    slug: 'recon-scanner',
   },
 ];
