@@ -1,9 +1,11 @@
 # vscode-portfolio
 [![Open is Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/itsnitinr/vscode-portfolio)
 
-A Visual Studio Code themed developer portfolio website built with Next.js and deployed on Vercel.
+A GitHub inspired portfolio website built with Next.js. This fork showcases a cybersecurity student profile.
 
 ![vscode-portfolio banner](https://imgur.com/JXJ9mpO.gif)
+
+This version mimics GitHub's dark theme and contains sample content for a cybersecurity student named **Alex Cyber**.
 
 ## Features Roadmap
 
